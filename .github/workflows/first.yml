@@ -7,4 +7,4 @@ jobs:
       - name: checkout code
         uses: actions/checkout@v4
       - name: Read-File
-        run: cat world.txt
+        run: cat hello.txt
